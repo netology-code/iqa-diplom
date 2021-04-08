@@ -19,7 +19,7 @@
 Написать набор тест-кейсов на проверку функционала восстановления пароля.
 
 **Требования к выполнению:**
-* Тест-кейсы должны покрывать все, что описано в требованиях по [ссылке](https://docs.google.com/document/d/12deDbATIy0Xps8MiWvumNqHISfAlFc4etY8F4lPcqJ4/edit?usp=sharing) и учитывать и позитивные, и негативные кейсы.
+* Тест-кейсы должны покрывать все, что описано в требованиях по [ссылке](https://docs.google.com/document/d/12deDbATIy0Xps8MiWvumNqHISfAlFc4etY8F4lPcqJ4/edit?usp=sharing), и учитывать позитивные и негативные кейсы.
 * Мы ожидаем от вас минимум 20 тест-кейсов.
 * Шаблон для выполнения находится [здесь](https://docs.google.com/spreadsheets/d/1Nl2_n46HvTIdv7JpbNLjOtMcWSuYpblZjyxlsBFKanY/edit?usp=sharing).
 
